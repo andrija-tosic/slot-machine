@@ -1,5 +1,5 @@
 import * as PIXI from 'pixi.js';
-import { Howl, Howler } from 'howler';
+import { Howl } from 'howler';
 import { Player } from './player.js';
 import { spinSlot, getReels } from './calculation.js';
 
